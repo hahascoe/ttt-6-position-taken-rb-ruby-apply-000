@@ -1,5 +1,2 @@
 # code your #position_taken? method here!
-def position_taken?(" ")
-  if " "
-    
-  elsif
+def position_taken?
